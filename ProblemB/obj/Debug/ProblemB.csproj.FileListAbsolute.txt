@@ -1,0 +1,5 @@
+C:\Projects\ProblemB\ProblemB\bin\Debug\ProblemB.exe.config
+C:\Projects\ProblemB\ProblemB\bin\Debug\ProblemB.exe
+C:\Projects\ProblemB\ProblemB\bin\Debug\ProblemB.pdb
+C:\Projects\ProblemB\ProblemB\obj\Debug\ProblemB.exe
+C:\Projects\ProblemB\ProblemB\obj\Debug\ProblemB.pdb
